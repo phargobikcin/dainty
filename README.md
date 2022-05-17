@@ -1,16 +1,17 @@
-# dantinet
+Place holder project for a browser type program 
 
-Place holder for a browser type program incorporating features from
+# dantinet - the Hybrid digital/analog Antinet Zettelkasten
 
-The Four Principles of an Antinet Zettelkasten
+Adding digital to the Four Principles of an Antinet Zettelkasten
 
--    Analog
--    Numeric-alpha
--    Tree
-
+-   Analog
+-   Numeric-alpha
+-   Tree
 -   Index
 
-Each entry is a single file, with some internal meta-information.
+# simply:
+
+A file browser type program, where each entry is a single file, with some internal meta-information.
 
 The file can be (< 400 charaters of)
 
@@ -20,15 +21,15 @@ The file can be (< 400 charaters of)
 Or a png/img - so that can scan a written note.
 
 
-Goals:
+# goals
 - have 2 top level parts:
-  - main
+  - main tree
   - key terms index
 - integrate with emacs and/or standalone
 - ability to print x4 cards onto one 1 A4 if needed
 
 
-Non-goals:
+# non-goals
 - not a wiki
 - not an outliner... tree structure is not suppose be moved around
 - links are one way (no back links)
