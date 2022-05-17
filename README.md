@@ -7,6 +7,7 @@ The Four Principles of an Antinet Zettelkasten
 -    Analog
 -    Numeric-alpha
 -    Tree
+
 -   Index
 
 Each entry is a single file, with some internal meta-information.
@@ -20,7 +21,9 @@ Or a png/img - so that can scan a written note.
 
 
 Goals:
-- have 3 tope level parts: main, key terms index, bib notes
+- have 2 top level parts:
+  - main
+  - key terms index
 - integrate with emacs and/or standalone
 - ability to print x4 cards onto one 1 A4 if needed
 
