@@ -1,8 +1,8 @@
 Place holder project for a browser type program 
 
-# dantinet - the Hybrid digital/analog Antinet Zettelkasten
+# dantinet - the Hybrid digital/analog Antinet
 
-Adding digital to the Four Principles of an Antinet Zettelkasten
+Adding digital to the Antinet, where anti is:
 
 -   Analog
 -   Numeric-alpha
@@ -11,7 +11,7 @@ Adding digital to the Four Principles of an Antinet Zettelkasten
 
 # simply:
 
-A file browser type program, where each entry is a single file, with some internal meta-information.
+A file browser type program, where each entry/card is a single file, with some internal meta-information.
 
 The file can be (< 400 charaters of)
 
@@ -19,6 +19,11 @@ The file can be (< 400 charaters of)
 - org-mode
 
 Or a png/img - so that can scan a written note.
+
+# actions
+- browse cards in main / keyterms
+- add a card into main tree/keyterms
+- written cards with links need associated link card
 
 
 # goals
