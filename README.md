@@ -1,13 +1,17 @@
-Place holder project for a browser type program 
+Place holder project for a browser type program... mostly taken from idea here:
+https://youtu.be/XgMh6iuFbT4?t=5590
 
-# dantinet - the Hybrid digital/analog Antinet
 
-Adding digital to the Antinet, where anti is:
+# dainty - the Hybrid digital/analog anti-net
 
--   Analog
--   Numeric-alpha
--   Tree
--   Index
+Adding digital to the anit-net, where anti is:
+
+-   d - digital
+-   a - analog
+-   i - index of keyterms
+-   n - Numeric-alpha
+-   t - tree
+-   y - you do you, find/discover what works for you.
 
 # simply:
 
