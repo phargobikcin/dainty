@@ -4,7 +4,7 @@ https://youtu.be/XgMh6iuFbT4?t=5590
 
 # dainty - the Hybrid digital/analog anti-net
 
-Adding digital to the anit-net, where anti is:
+Adding digital to the anit-net, where dainty stands for:
 
 -   d - digital
 -   a - analog
